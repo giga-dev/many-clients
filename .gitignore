@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.class
+*.launch
+*.jar
+*.iml
+
+## Directory-based project format:
+.idea/
